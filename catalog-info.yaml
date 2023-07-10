@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backdora4
+  annotations:
+    github.com/project-slug: JustinPrins01/backdora4
+spec:
+  type: other
+  lifecycle: unknown
+  owner: quest
